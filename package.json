@@ -1,0 +1,31 @@
+{
+	"name": "simple-djs-bot",
+	"displayName": "simple-djs-bot",
+	"description": "Don't waste your time for code, use simple-djs-bot",
+	"version": "1.1.5",
+	"publisher": "taps",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TapsHTS/simple-djs-bot"
+	},
+	"icon": "assets/logo.png",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "b213f0cf-427f-444b-bf4d-7123ce66f205",
+		"publisherDisplayName": "taps",
+		"publisherId": "00aa8b66-5905-4c5e-bcd6-98fd417be9db"
+	}
+}
