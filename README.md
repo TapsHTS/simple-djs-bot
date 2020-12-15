@@ -18,5 +18,7 @@ Simple discord bot snippets for Visual Studio Code.
 🎙  &nbsp;[Support](https://discord.gg/5c2Xcfh)\
 🐦 [Twitter](https://twitter.com/taps_hts) \
 🎥 [Youtube](https://urlz.fr/b7FY) \
-🍿 &nbsp;[Twitch](https://www.twitch.tv/tapshts)# simple-djs-bot
+🍿 &nbsp;[Twitch](https://www.twitch.tv/tapshts)
+
+
 
