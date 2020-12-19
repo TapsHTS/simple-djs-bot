@@ -8,7 +8,7 @@ Simple discord bot snippets for Visual Studio Code.
 - `sbase`: Default main page.
 - `sembed`: Simple Embed.
 - `schandler`: Simple command handler.
-- `schandler+`: Command handler witg aliases.
+- `schandler+`: Command handler with aliases.
 - `scm`: Simple command model.
 - `scm+`: Simple command model with aliases.
 
