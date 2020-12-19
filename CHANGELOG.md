@@ -10,7 +10,7 @@ All notable changes to the **simple-djs-code**.
 - Nothing
 
 ## ➕ [1.1.0] | 10-12-2020
-### *Added
+### *Added*
 - ```sembed``` : Simple embed patern for Discord.js
 ### *Remove*
 - Nothing
@@ -26,6 +26,17 @@ All notable changes to the **simple-djs-code**.
 - New Logo <br> <img src="https://cdn.discordapp.com/attachments/764196883387646022/787383579269267496/logo.png" width="30">
 - Update `sembed`
 - Update `sping` -> `sbase`
+
+
+### *Remove*
+- Nothing
+
+## ➕ [1.2.0] | 19-12-2020
+### *Added*
+- Nothing
+
+### *Update*
+- Secret...
 
 
 ### *Remove*
