@@ -12,7 +12,7 @@ Simple discord bot snippets for Visual Studio Code.
 - `scm`: Simple command model.
 - `scm+`: Simple command model with aliases.
 
-# ❤️ Support Me
+# ❤️ Support Me !
 
 💵 [Donate](https://www.paypal.com/paypalme/clemcart) \
 🎙  &nbsp;[Support](https://discord.gg/5c2Xcfh)\
